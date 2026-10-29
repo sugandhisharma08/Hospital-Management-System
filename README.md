@@ -180,10 +180,4 @@ Type the number of a menu option and press Enter. `0` always goes back. After ea
 ## 13. Credits
 Developed as a Semester 3 BCA (Data Science) OOP group project.
 
-| Student | Name | UID / Roll No. | Modules |
-|---|---|---|---|
-| Student 1 | *(your name)* | *(your UID)* | Core classes, patients, doctors, staff, persistence |
-| Student 2 | *(partner's name)* | *(partner's UID)* | Appointments, medical records, billing, reports |
 
-University / Course / Teacher: *(fill in)*
-Repository link: *(paste your GitHub link here after uploading)*
