@@ -1,0 +1,7 @@
+# Doctors data file
+# id|name|age|gender|contact|address|specialization|fee|shiftStart|shiftEnd|onLeave(1=yes,0=no)
+2001|Dr. Neha Kulkarni|45|F|9811100001|Block A, Staff Quarters|Cardiology|800.00|09:00|15:00|0
+2002|Dr. Arjun Malhotra|39|M|9811100002|Block B, Staff Quarters|General Medicine|500.00|09:00|17:00|0
+2003|Dr. Sana Qureshi|36|F|9811100003|Block C, Staff Quarters|Pediatrics|600.00|10:00|16:00|0
+2004|Dr. Rajiv Bansal|50|M|9811100004|Block D, Staff Quarters|Orthopedics|700.00|11:00|17:00|1
+2005|Dr. Pooja Nair|33|F|9811100005|Block E, Staff Quarters|Dermatology|550.00|09:00|13:00|0

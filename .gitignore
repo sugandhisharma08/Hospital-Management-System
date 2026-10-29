@@ -1,0 +1,7 @@
+build/
+hospital
+hospital.exe
+*.o
+*.out
+data/activity_log.txt
+data/*.tmp

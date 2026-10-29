@@ -1,0 +1,5 @@
+# Medical records data file (sample data only)
+# id|patientId|doctorId|appointmentId|visitDate|diagnosis|prescription|notes
+5001|1001|2001|3001|2026-10-12|Mild hypertension|Sample: tablet once daily after breakfast|Reduce salt intake. Review in two months
+5002|1002|2002|3002|2026-10-14|Viral fever|Sample: fever tablet when needed, plenty of fluids|Rest for three days
+5003|1005|2004|3005|2026-09-25|Knee ligament strain|Sample: pain relief gel, physiotherapy exercises|Avoid heavy lifting

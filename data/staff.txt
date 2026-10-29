@@ -1,0 +1,6 @@
+# Staff data file
+# id|name|age|gender|contact|address|role|department|salary
+6001|Sunita Devi|38|F|9822200001|Quarter 1, Hospital Campus|Head Nurse|Nursing|32000.00
+6002|Manoj Kumar|29|M|9822200002|Quarter 2, Hospital Campus|Receptionist|Front Desk|22000.00
+6003|Farah Khan|34|F|9822200003|Quarter 3, Hospital Campus|Pharmacist|Pharmacy|28000.00
+6004|Deepak Chauhan|41|M|9822200004|Quarter 4, Hospital Campus|Lab Technician|Pathology|26000.00

@@ -1,0 +1,9 @@
+# Appointments data file
+# id|patientId|doctorId|date|time|status|reason
+3001|1001|2001|2026-10-12|10:00|Completed|Chest discomfort follow-up
+3002|1002|2002|2026-10-14|09:30|Completed|Seasonal fever
+3003|1003|2002|2026-12-05|10:30|Scheduled|Routine diabetes check
+3004|1004|2001|2026-12-06|11:00|Scheduled|Blood pressure review
+3005|1005|2004|2026-09-25|12:00|Completed|Knee pain
+3006|1006|2002|2026-12-07|09:00|Scheduled|Joint pain checkup
+3007|1003|2001|2026-10-20|09:30|Cancelled|Palpitations consultation

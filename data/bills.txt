@@ -1,0 +1,5 @@
+# Bills data file
+# id|patientId|appointmentId|date|status|items (description~unitPrice~quantity separated by ;)
+4001|1001|3001|2026-10-12|Paid|Consultation Fee~800.00~1;ECG Test~350.00~1
+4002|1002|3002|2026-10-14|Unpaid|Consultation Fee~500.00~1;Blood Test (CBC)~300.00~1
+4003|1005|3005|2026-09-25|Paid|Consultation Fee~700.00~1;X-Ray~450.00~1

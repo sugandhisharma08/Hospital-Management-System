@@ -1,0 +1,10 @@
+# Patients data file - one record per line, fields separated by |
+# id|name|age|gender|contact|address|bloodGroup|emergencyContact|registeredDate
+1001|Aarav Mehta|34|M|9876500001|12 Lake View Road, Shimla|B+|9876500101|2026-08-12
+1002|Diya Sharma|28|F|9876500002|45 Green Park, Solan|O+|9876500102|2026-08-15
+1003|Kabir Singh|52|M|9876500003|7 Hill Street, Mandi|A+|9876500103|2026-09-01
+1004|Meera Verma|41|F|9876500004|88 Pine Colony, Kullu|AB+|9876500104|2026-09-10
+1005|Rohan Kapoor|19|M|9876500005|3 College Road, Hamirpur|O-|9876500105|2026-09-18
+1006|Anaya Thakur|66|F|9876500006|21 Orchard Lane, Manali|A-|9876500106|2026-10-02
+1007|Vihaan Gupta|8|M|9876500007|56 Rose Garden, Dharamshala|B-|9876500107|2026-10-05
+1008|Ishita Rana|30|F|9876500008|9 River Side, Kangra|Unknown|9876500108|2026-10-20
